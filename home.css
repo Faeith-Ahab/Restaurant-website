@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-image: url(../linewine/linewine-removebg-preview\ \(2\).png);
+  
+}
+
+img {
+  width: 800px;
+  height: 600px;
+} 
+
+#box{
+    width:300px;
+      margin:auto;
+      float: right;
+}
+
+#heading{
+  background-color: #fbedec ;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 70px;
+  padding: 10px;
+  opacity: 0.85;
+  border: 1px solid #fbedec;
+  margin: 10px;
+  color: black;
+  font-weight: bold;
+  
+}
+
+
+#subheading{
+  background-color: #fbedec ;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    padding: 20px;
+    opacity: 0.85;
+
+    border: 1px solid #fbedec;
+    margin: 10px;
+    color: black;
+    font-style: italic;
+}
+
+#box{
+  background-color: #fbedec ;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 25px;
+  opacity: 0.85;
+  border: 1px solid #fbedec;
+  font-style: italic;
+  color: black;
+}
